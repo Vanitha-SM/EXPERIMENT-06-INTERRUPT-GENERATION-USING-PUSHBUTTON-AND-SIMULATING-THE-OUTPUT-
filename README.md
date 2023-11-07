@@ -1,3 +1,7 @@
+```
+Name: Vanitha S
+Register Number:212222100057
+```
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
 
 ### Aim:
@@ -65,6 +69,7 @@ Check for execution of the output using Push Button option.
   
 
 ## STM 32 CUBE PROGRAM :
+```
 #include "main.h"
 
 void SystemClock_Config(void);
@@ -138,7 +143,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif 
 
-
+```
 
 
 ### Output screen shots of proteus  :
